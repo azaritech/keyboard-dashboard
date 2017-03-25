@@ -1,0 +1,19 @@
+{
+  "name": "keyboard-dashboard",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azaritech/keyboard-dashboard.git"
+  },
+  "author": "Nicolas Azari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azaritech/keyboard-dashboard/issues"
+  },
+  "homepage": "https://github.com/azaritech/keyboard-dashboard#readme"
+}
