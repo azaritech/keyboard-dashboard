@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/azaritech/keyboard-dashboard/issues"
   },
-  "homepage": "https://github.com/azaritech/keyboard-dashboard#readme"
+  "homepage": "https://github.com/azaritech/keyboard-dashboard#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.7.5"
+  }
 }
